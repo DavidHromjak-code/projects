@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Ipog_cv04_Hromjak_David.jnlp">
+  <information>
+    <title>Ipog_cv04_Hromjak_David</title>
+    <vendor>PC</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Ipog_cv04_Hromjak_David.jar" size="34982" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Ipog_cv04_Hromjak_David" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="ipog_cv04_hromjak_david.Ipog_cv04_Hromjak_David"  name="Ipog_cv04_Hromjak_David" />
+  <update check="always"/>
+</jnlp>

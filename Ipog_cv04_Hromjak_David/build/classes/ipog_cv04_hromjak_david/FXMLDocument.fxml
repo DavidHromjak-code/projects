@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="768.0" prefWidth="898.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ipog_cv04_hromjak_david.FXMLDocumentController">
+    <children>
+      <ColorPicker fx:id="cpColor" layoutX="738.0" layoutY="38.0" />
+      <ImageView fx:id="imageView" fitHeight="760.0" fitWidth="722.0" layoutY="6.0" onMousePressed="#vyplnRastr" pickOnBounds="true" preserveRatio="true" />
+    </children>
+</AnchorPane>
