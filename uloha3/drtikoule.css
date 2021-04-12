@@ -1,0 +1,279 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25.4.2019, 12:25:04
+    Author     : maturita43
+*/
+@media only screen and (min-width:320px){
+
+  .black
+  {
+      font-size: 12px;
+  }
+ 
+  .wholeContent
+  {
+      padding-top: 5%;
+  }
+     .secondScroll h1
+{
+    font-size: 20px;
+}
+#popis p
+{
+    font-size: 10px;
+}
+#popis h4
+{
+    font-size: 18px;
+}
+.wholeContent h3
+  {
+font-size: 18px;
+  }
+  
+}
+@media only screen and (min-width: 720px) {
+ 
+  .black
+  {
+      font-size: 16px;
+  }
+     .secondScroll h1
+{
+    font-size: 32px;
+}
+.wholeContent h3
+  {
+font-size: 22px;
+  }
+#popis p
+{
+    font-size: 10px;
+}
+#popis h4
+{
+    font-size: 20px;
+}
+}
+@media only screen and (min-width: 1023px) {
+ 
+  .black
+  {
+      font-size: 16px;
+  }
+     .secondScroll h1
+{
+    font-size: 32px;
+}
+.wholeContent h3
+  {
+font-size: 22px;
+  }
+#popis p
+{
+    font-size: 12px;
+}
+#popis h4
+{
+    font-size: 22px;
+}
+}
+
+@media only screen and (min-width: 1279px) {
+ .black
+  {
+      font-size: 20px;
+  }
+   .secondScroll h1
+{
+    font-size: 40px;
+}
+.wholeContent h3
+  {
+font-size: 30px;
+  }
+#popis p
+{
+    font-size: 15px;
+}
+#popis h4
+{
+    font-size: 25px;
+}
+}
+
+@media only screen and (min-width: 1350px) {
+ .black
+  {
+      font-size: 24px;
+  }
+  .secondScroll h1
+{
+    font-size: 48px;
+}
+.wholeContent h3
+  {
+font-size: 38px;
+  }
+#popis h4
+{
+    font-size: 31px;
+}
+#popis p
+{
+    font-size: 23px;
+}
+}
+body
+{
+ margin:0;   
+}
+.structure
+{
+    width: 100%;
+    float: left;
+   background-image: url(images/Background_2.png);
+    background-size: cover;
+    text-align: center;  
+}
+.zatmaveni
+{width: 100%;
+    float: left;
+    background-color:rgba(0, 0, 0, 0.8);
+}
+.structure h1,p 
+{
+    color:white;
+}
+.structure h1
+{
+    font-size: 36px;
+}
+
+#backgroundFP
+{
+   
+}
+
+hr
+{
+    width: 25%;
+    border: none;
+    background-color: white;
+    height: 5px;
+}
+.drtikul
+{
+    
+    width: 35%;
+    
+    margin-left: 32.5%;
+    margin-right: 32.5%;
+}
+.drtikul img
+{
+    width: 75%;
+    height: auto;
+    margin-left: 12.5%;
+    margin-right:12.5%;
+}
+.structure2
+{
+  
+    width: 100%;
+    float: left;
+   background-image: url(images/background.jpg);
+    background-size: cover;
+    text-align: center;    
+}
+.secondScroll
+{
+    width: 100%;
+    float: left;
+    background-image: url(images/Random_Events_Scroll.png) ;
+    background-color:rgba(0, 0, 0, 0.8);
+    background-size: cover;
+    background-position: top;
+    text-align: center;
+    padding-bottom: 20%;
+}
+.wholeContent
+{
+    width: 60%;
+    float:left;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: inherit;
+    margin-top: 20%;
+}
+.wholeContent h3
+  {
+      color: white;
+  }
+.secondScroll h1
+{
+  color:white;  
+}
+.black
+{
+    color:black;
+    margin-top: 5%;
+}
+.content h2
+{
+    color:white;
+}
+.basic
+{float: left;
+margin-left: 2%;
+width: 15%;
+}
+.content
+{
+margin-bottom: 10%;
+width: 70%;
+float: left;
+margin-left: 15%;
+margin-right: 15%;
+
+}
+.ultimate
+{
+    float: left;
+    margin-left: 8%;
+    margin-right: 4%;
+    width: 20%;
+    
+    
+}
+.ultimate img
+{
+    border-radius: 50%; 
+     width: 100%;
+    height: auto;
+}
+.basic img
+{
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
+#popis
+{
+    width: 100%;
+    float:left;
+    
+}
+#popis h4
+{
+    color:rgba(255, 255, 255, 0.8);
+}
+#popis p{
+    color: black;
+}
+
+
